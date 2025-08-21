@@ -2,9 +2,7 @@
 Hi, welcome to my profile!
 I'm studying CS at University of Fortaleza, focusing on SWE and SDE (Software Engineer and Software Development), keeping on Full Stack Development | Java, C#, C, JavaScript and TypeScript.
 
-## Experience
-- Game Developer at Vortex Labs;
-- 
+## Tech Stack
 
 
 ## GitHub Stats
@@ -15,6 +13,6 @@ I'm studying CS at University of Fortaleza, focusing on SWE and SDE (Software En
 
 ## Connect with Me!
 - 📧 E-Mail: anaclaramtn@gmail.com
-- 🌐 Portfolio: anaclaramtn.dev
+<!-- 🌐 Portfolio: anaclaramtn.github.io  -->
 - 🔗 LinkedIn: www.linkedin.com/in/anaclaramtn
 
