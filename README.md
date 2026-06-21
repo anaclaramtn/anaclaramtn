@@ -17,8 +17,8 @@ I'm studying CS at University of Fortaleza, focusing on Software Development and
 
 ## GitHub Stats
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclaramtn&theme=monokai&show_icons=true&hide_border=true&layout=compact" height="160" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=anaclaramtn&show_icons=true&theme=monokai&hide_border=true" height="160" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anaclaramtn&theme=tokyonight&show_icons=true&hide_border=true&layout=compact" height="160" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anaclaramtn&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="GitHub stats" />
 </p>
 
 ## Connect with Me!
