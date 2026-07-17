@@ -1,10 +1,7 @@
-## Ana Clara Martins
+## Hello, there! 
 
-Hi, welcome to my profile! I'm Ana Clara, a Computer Science student at Unifor.
-- System Analyst at SME
-- Fellow/Research Assistant at NCDIA
-
-SWE in progress ҉
+I'm Ana Clara, a Computer Science Student at Unifor, System Analyst at SME, Research Assistant/Fellow at NCDIA.
+Currently building my path as a Software Engineer.
 
 ## Stack
 
