@@ -16,5 +16,5 @@ Currently building my path as a Software Engineer.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-- 📧 E-mail: anaclaramtn@gmail.com
-- 🔗 LinkedIn: https://www.linkedin.com/in/anaclaramtn
+📧 E-mail: anaclaramtn@gmail.com
+🔗 LinkedIn: https://www.linkedin.com/in/anaclaramtn
