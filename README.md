@@ -3,8 +3,6 @@
 I'm Ana Clara, a Computer Science Student at Unifor, System Analyst at SME, Research Assistant/Fellow at NCDIA.
 Currently building my path as a Software Engineer.
 
-## Stack
-
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://github.com/anaclaramtn/enduro-atari-2600)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
@@ -18,8 +16,5 @@ Currently building my path as a Software Engineer.
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
-## Connect with Me
-
 - 📧 E-mail: anaclaramtn@gmail.com
-<!-- 🌐 Portfolio: https://anaclaramtn.github.io -->
 - 🔗 LinkedIn: https://www.linkedin.com/in/anaclaramtn
