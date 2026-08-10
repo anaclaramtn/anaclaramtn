@@ -1,6 +1,6 @@
 # Hello there!
 
-CS student at unifor. system analist at sme and research assistant at ncdia (also a lab at my university) 
+Im a computer science student at unifor, system analist at sme and research assistant at ncdia (a lab at my university) 
 
 I work mostly with **Java, React and SQL**, and also spend part of my time researching **graphs and geospatial data**.
 
